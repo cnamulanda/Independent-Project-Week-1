@@ -7,8 +7,8 @@ This landing page "Independent Project" the first part details my name and a pic
 * Created file Index.html. style.css and README.MD
 * Created a repository in Github
 * Wrote out commands in Terminal and updated github via add and commit function, push origin master
-* 
-* 
+
+
 
 ## Known Bugs
 
