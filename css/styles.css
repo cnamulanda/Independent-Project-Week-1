@@ -12,3 +12,7 @@ h1 {
   p {color :navy; text-align: center; font-style: italic; font-size: larger }
   li{color: navy;text-align: center;font-style: italic;font-size: larger}
   ul{text-align: center; list-style-position: inside}
+  img{
+    display: block;
+    margin: 0 auto;
+}
