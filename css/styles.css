@@ -9,13 +9,15 @@ h1 {
     text-align: center; font-family: 'Covered By Your Grace', cursive;font-size:xx-large
   }
   h4{color:navy; text-align: center; font-family: 'Covered By Your Grace', cursive;font-size: xx-large}
-  p {color :navy; text-align: center; font-family: 'Covered By Your Grace', cursive; font-size: x-large }
-  li{color: navy;text-align: center;font-family: 'Covered By Your Grace', cursive;font-size: x-large}
+  p {color :navy; text-align: center; font-family: 'Covered By Your Grace', cursive; font-size: xx-large }
+  li{color: navy;text-align: center;font-family: 'Covered By Your Grace', cursive;font-size: xx-large}
   ul{text-align: justify; list-style-position: inside}
   img{
     display: block;
     margin: 0 auto;
 }
  h5{color:navy; text-align: center; font-family: 'Covered By Your Grace', cursive;font-size: xx-large}
- body {background-image: url(https://wallpapercave.com/wp/wp2496547.jpg)}
+ body {
+
+ }
  h6 {color:navy ; text-align: center; font-family:'Covered By Your Grace', cursive;font-size:xx-large}
