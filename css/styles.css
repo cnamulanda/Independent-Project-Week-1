@@ -4,3 +4,8 @@ h1 {
     text-align: center;font-style:italic;
   }
   h3 {color:navy ; text-align: center; font-style:italic}
+  h2 {
+    color: navy;
+    text-align: center; font-style:italic;
+  }
+  p {color :navy; text-align: center; font-style: italic; font-size: larger }
