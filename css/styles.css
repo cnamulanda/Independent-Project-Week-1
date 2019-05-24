@@ -1,16 +1,16 @@
 h1 {
-    color: red
+    color: black
     ;
-    text-align: center;font-style:italic;
+    text-align: center; font-family:'Covered By Your Grace', cursive;
   }
-  h3 {color:navy ; text-align: center; font-style:italic}
+  h3 {color:navy ; text-align: center; font-family:'Covered By Your Grace', cursive;}
   h2 {
-    color: navy;
-    text-align: center; font-style:italic;
+    color:black;
+    text-align: center; font-family: 'Covered By Your Grace', cursive;
   }
-  h4{color:navy; text-align: center; font-style:italic;font-size: larger}
-  p {color :navy; text-align: center; font-style: italic; font-size: larger }
-  li{color: navy;text-align: center;font-style: italic;font-size: larger}
+  h4{color:navy; text-align: center; font-family: 'Covered By Your Grace', cursive;font-size: larger}
+  p {color :navy; text-align: center; font-family: 'Covered By Your Grace', cursive; font-size: larger }
+  li{color: navy;text-align: center;font-family: 'Covered By Your Grace', cursive;font-size: larger}
   ul{text-align: center; list-style-position: inside}
   img{
     display: block;
